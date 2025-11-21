@@ -1,0 +1,18 @@
+# Ignorar la clave secreta de Firebase
+Lab7_20206464/validacion-service/src/main/resources/firebase-adminsdk.json
+Lab7_20206464/validacion-service/target/classes/firebase-adminsdk.json
+firebase-adminsdk.json
+
+# Ignorar carpetas de compilación
+target/
+*/target/
+
+# Ignorar archivos de IntelliJ/IDEA
+.idea/
+*.iml
+
+# Ignorar binarios Java
+*.class
+
+# Ignorar cualquier archivo JSON sensible
+*.json
