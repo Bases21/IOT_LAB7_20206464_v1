@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestión de Tareas</string>
+
+    <string name="facebook_app_id">730069452687275</string>
+    <string name="fb_login_protocol_scheme">fb730069452687275</string>
+    <string name="facebook_client_token">353d2983a4a1bf6107e7c7ec39ceabb0</string>
+    <string name="default_web_client_id" translatable="false">683841683887-qhqmnnamlpq6gtm5rfna9etc5b33n9bt.apps.googleusercontent.com</string>
+
+</resources>
